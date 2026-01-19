@@ -11,5 +11,10 @@ This is probably because the lakes are actually much different from each other t
 Next time, I can pick two locations that are more geographically similar, like the same county or city.
 
 I did not anticipate the amount of terms that only appear once or twice that make up the bulk of the word cloud.
-<img width="1000" height="500" alt="green-lake" src="https://github.com/user-attachments/assets/3ea5b2ad-0429-4726-9ef1-fb04f6fdd5f5" />
-<img width="1000" height="500" alt="lake-chelan" src="https://github.com/user-attachments/assets/5a9ab17d-9c85-4b1f-8c38-8d82a422cd06" />
+
+<img width="500" height="250" alt="green-lake" src="https://github.com/user-attachments/assets/3ea5b2ad-0429-4726-9ef1-fb04f6fdd5f5" />
+<img width="500" height="250" alt="lake-chelan" src="https://github.com/user-attachments/assets/5a9ab17d-9c85-4b1f-8c38-8d82a422cd06" />
+
+
+[lake-chelan.csv](https://github.com/user-attachments/files/24723826/lake-chelan.csv)
+[green-lake.csv](https://github.com/user-attachments/files/24723829/green-lake.csv)
