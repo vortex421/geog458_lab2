@@ -1,4 +1,4 @@
-# geog458_lab2
+# Lake Chelan vs. Green Lake
 
 My topic compares Lake Chelan, with keywords: "chelan", "chelan wa", "lake chelan", and Green Lake, with keywords: "green lake", "green lake park", "green lake seattle". I wanted to compare a lake from a smaller surrounding population (4,400) to another from a larger city (750,000) to see how the word clouds differ in terms of park and lake activities. Some similarities are that half of the terms on both word clouds are useless that do not mean anything to me. They also share broader terms that relate to lakes such as: washington, tourist, lake, which is obvious as they are the most popular terms. The other half of the word clouds have words that are unique to both clouds, with terms having activities that only exist in one location. This is probably because the lakes are actually much different from each other than I originally imagined. I thought that because there are two lakes, the words would be very similar. It could also be a thing of location where one is in western Washington and the other in North Central Washington, resulting in different climates and cultures. 
 
